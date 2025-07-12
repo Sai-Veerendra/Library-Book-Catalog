@@ -247,5 +247,3 @@ Test the complete API using the following Postman Collection:
 - 🐙 GitHub: [@Sai-Veerendra](https://github.com/Sai-Veerendra)
 
 ---
-
-```
